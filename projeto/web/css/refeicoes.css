@@ -1,0 +1,55 @@
+body
+{
+    margin-left:150px;
+    background:#ffffff;
+    line-height:200%;
+}
+
+.container
+{
+    text-align:center;
+}
+
+.center_div
+{
+    border:1px solid gray;
+    margin-left:auto;
+    margin-right:auto;
+    width:90%;
+    background-color:#d0f0f6;
+    text-align:left;
+    padding:8px;
+}
+a:link, a:visited, a:active {
+    text-decoration: underline;
+    color: #778899;
+}
+a:hover {
+    text-decoration: underline overline; 
+    color:red;
+}
+label{
+    padding-bottom: 8px;
+    padding-top: 8px;
+}
+nav {
+    color: #cccccc;
+    padding-bottom: 40px;
+}
+footer p {
+    font-size: 80%;
+    position: absolute;
+    right: 25px;
+    bottom: 5px;
+}
+header h1 {
+    font-size: 210%;
+    color: black;
+    text-shadow: 2px 2px 2px black;
+}
+header h2 {
+    color: red;
+}
+header h3 {
+    color: darkred;
+}

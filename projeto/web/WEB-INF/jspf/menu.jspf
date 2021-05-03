@@ -1,0 +1,7 @@
+<nav id="nav_bar">
+    <header><h1>Projeto Refeição BD</h1></header></br>
+    <a href="./index.jsp">Home</a> |
+    <a href="controlador?opcao=cliente.listar">Listar clientes</a> |
+    <a href="controlador?opcao=restaurante.listar">Listar restaurantes</a> |
+    <a href="controlador?opcao=gerenciar">Gerenciar</a> |
+</nav>
